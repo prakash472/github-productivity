@@ -1,6 +1,6 @@
 const footer = () => {
   return (
-    <footer className="bg-gray-800 text-white p-4 mt-10">
+    <footer className="bg-gray-800 text-white p-4 mt-10 absolute bottom-0 w-full">
       <div className="container mx-auto">
         <p className="text-center">
           © 2023 Prakash Parajuli. All rights reserved.
