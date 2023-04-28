@@ -52,6 +52,8 @@ pip3 install requirements.txt
 python3 app.py
 ```
 
+Here, is the video link https://www.youtube.com/watch?v=xh8I9a1uzN4 also. Please Refer the video for following up the directions for deployment. It also shows the working of the application.
+
 # Limiations
  - Here, the github api only allows the 60 requests per hour per user from originating IP address. Due to this getting the entire contributions API would be difficult. We will easily face API rate limit. Due, to this by default per page it allows 30 results. The project has also shown for the first 30 contributions for the repository. Some features could not be implemented because of the API limitations.
  
