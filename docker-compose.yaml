@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  frontend:
+    build: ./frontend
+    container_name: frontend_contributions
+    ports:
+      - "3000:3000"
+    stdin_open: true
+    tty: true
+  backend:
+    build: ./backend
+    container_name: backend_contributions
+    ports:
+      - "4000:4000"
