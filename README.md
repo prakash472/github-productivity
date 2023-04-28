@@ -28,7 +28,7 @@ Here, the productivity of the contributors is a difficult task to find out. For 
 The most simple way would be using the docker if docker is present.
 
 ```bash
-git https://github.com/prakash472/github-productivity.git
+git clone https://github.com/prakash472/github-productivity.git
 cd github-productivity
 docker-compose up
 ```
