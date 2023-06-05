@@ -1,6 +1,6 @@
 
 # Developer Productivity
-This project aims to build a simple report that indicates the productivity of teams (individual engineers/contributors) against a single repository over time.
+Introducing the Developer Productivity project! This initiative aims to track and analyze the productivity of teams and individual contributors in a GitHub repository over time. By retrieving contributors and commits information, calculating productivity scores, and generating a user-friendly report, this project provides valuable insights for non-technical consumers. The Flask backend and React frontend, along with Docker containerization, ensure efficient data collection and deployment. While acknowledging limitations and the challenge of quantifying productivity, future enhancements may include additional metrics and cross-repository/team comparisons. Overall, this project offers a simple and effective solution for measuring and monitoring developer productivity in GitHub repositories.
 
 # Objective
 The objective of this project is to collect the data efficiently, ensure accuracy of data over time, and provide usable output to non-technical consumers.
