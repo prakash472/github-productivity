@@ -67,7 +67,7 @@ Here, is the video link https://www.youtube.com/watch?v=Gm2ONpWhJ_o also. Please
 This project provides a simple and efficient way to generate a productivity report for GitHub repositories. The code can be easily modified and extended to include more features and metrics to enhance the report's usability and appeal.
 ## Screenshots
 
-![App Screenshot](./screenshots/webapp1.png)
+![App Screenshot](./screenshots/first.png)
 
 ![App Screenshot](./screenshots/webapp2.png)
 
