@@ -13,7 +13,7 @@ const Header = () => {
                     href="/"
                     className="bg-gray-800 text-white block px-3 py-2 text-base font-medium"
                   >
-                    G-Research Technical Assessment
+                    Home
                   </a>
                 </div>
               </div>
@@ -27,7 +27,7 @@ const Header = () => {
               href="/"
               className="bg-gray-800 text-white block px-3 py-2 text-base font-medium"
             >
-              G-Research Technical Assessment
+              Home
             </a>
           </div>
         </div>
